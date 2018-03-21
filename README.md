@@ -10,3 +10,5 @@ The main concept that were used were OOP. While not part of the syllabus I added
 The Caesar Cipher was something that I created because I wanted to add a bit of security. 
 
 There are multiple changes that would be done if this project would have been taken further. 
+
+Edit: Also added were the images that were used as part of the GUI and the documentation that was written as part of the project.
